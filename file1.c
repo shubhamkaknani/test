@@ -13,4 +13,8 @@ int addfunc(int a,intb)
 	int c = a+b;
 	return c;
 }
+int func_add(int a, int b)
+{
+	return a+b;
+}
 }
