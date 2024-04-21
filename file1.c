@@ -1,4 +1,4 @@
-I#include< stdio.h>
+#include< stdio.h>
 int main()
 {
 	int number1 , number2, sum ;
@@ -12,4 +12,4 @@ int func_add(int b, int c)
 {
 	return b+c;
 }	
-}
+
