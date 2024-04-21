@@ -8,13 +8,7 @@ int main()
 	sum = number1 + number2;
 	printf("sum of two number is %d",sum);
 }
-int addfunc(int a,intb)
-{
-	int c = a+b;
-	return c;
-}
 int func_add(int a, int b)
 {
-	return a+b;
-}
+	return a+b;}
 }
