@@ -1,4 +1,4 @@
-#include< stdio.h>
+I#include< stdio.h>
 int main()
 {
 	int number1 , number2, sum ;
@@ -8,7 +8,8 @@ int main()
 	sum = number1 + number2;
 	printf("sum of two number is %d",sum);
 }
-int func_add(int a, int b)
+int func_add(int b, int c)
 {
-	return a+b;}
+	return b+c;
+}	
 }
